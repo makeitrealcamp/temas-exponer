@@ -3,7 +3,7 @@
 ## 12 de Julio
 
 - TypeScript: Mauricio Orozco
-- Flow
+- Flow: Fabio Fonseca
 
 ## 19 de Julio
 
