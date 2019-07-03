@@ -8,4 +8,4 @@
 ## 19 de Julio
 
 - Web Components: Daniel Marin
-- Web Workers
+- Web Workers: Eduardo Hernández
