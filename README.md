@@ -2,7 +2,7 @@
 
 ## 12 de Julio
 
-- TypeScript
+- TypeScript: Mauricio Orozco
 - Flow
 
 ## 19 de Julio
