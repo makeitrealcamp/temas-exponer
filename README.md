@@ -7,5 +7,5 @@
 
 ## 19 de Julio
 
-- Web Components
+- Web Components: Daniel Marin
 - Web Workers
